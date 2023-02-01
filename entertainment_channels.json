@@ -1,0 +1,103 @@
+{
+  "categoryName": "Entertainment",
+"liveNow": [
+  {
+    "name": "CN English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=CN_HD_English&q=250&e=.m3u8",
+    "logo": "https://preview.redd.it/xzyybjjtjy151.jpg?auto=webp&s=bbd96939fa9fd09ca08c320c805f7d31b61f8d40",
+    "isFrom": "web",
+     "isLive": true
+  },
+  {
+    "name": "CN Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Cartoon_Network_Hindi&q=250&e=.m3u8",
+    "logo": "https://i.ytimg.com/vi/9o4jr1iDsKE/maxresdefault.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+   {
+    "name": "Nick English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Nick_HD_Plus&q=250&e=.m3u8",
+    "logo": "https://i.pinimg.com/originals/bb/14/d2/bb14d2dc4df9b55242bf48d670b095cb.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+ {
+    "name": "Nick Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Nick_Hindi&q=250&e=.m3u8",
+    "logo": "https://variety.com/wp-content/uploads/2014/08/nick-nickelodeon-logo.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Pogo Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Pogo_Hindi&q=250&e=.m3u8",
+    "logo": "https://freight.cargo.site/t/original/i/bc6cf3b5c09d87fb9181c005aa9f7b2ec5793ba34bb664e26523446e710a2c51/Logo_2.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Discovery English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_HD_World&q=250&e=.m3u8",
+    "logo": "https://i.ytimg.com/vi/GB_ZgYFrtNo/maxresdefault.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Discovery Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_Channel_Hindi&q=250&e=.m3u8",
+    "logo": "https://i.ytimg.com/vi/vjYhjLxn1fk/maxresdefault.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Discovery Science English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Discovery_Science&q=250&e=.m3u8",
+    "logo": "https://starsat.co.za/wp-content/uploads/2018/01/vanished-on-discovery-science.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Animal Planet English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Animal_Planet_English&q=250&e=.m3u8",
+    "logo": "https://deadline.com/wp-content/uploads/2018/10/animal-planet-logos-2.jpg?w=756",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "Animal Planet Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Animal_Planet_Hindi&q=250&e=.m3u8",
+    "logo": "https://i.revistapym.com.co/old/2019/02/animal-planet-1.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "History English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=History_HD&q=250&e=.m3u8",
+    "logo": "https://www.underconsideration.com/brandnew/archives/history_channel_00.jpg",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "History Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=History_18_Hindi&q=250&e=.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLj4ZLXcDawg_-iaU-QaodRF0DTnGdk382Xw&usqp=CAU",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "BBC Earth English",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD_English&q=250&e=.m3u8",
+    "logo": "https://d17mj1ha1c2g57.cloudfront.net/v1/BPHyhpEj-tU9JPCeuXCvlsATv7A/1200x/80/mcasso/production/clips/1513768264765/bbc-earth-large-screen2.jpg?v=1",
+    "isFrom": "web",
+     "isLive": true
+  },
+{
+    "name": "BBC Earth Hindi",
+    "url": "https://tv.googledrivelinks.com/live.php?c=Sony_BBC_Earth_HD&q=250&e=.m3u8",
+    "logo": "https://i.ytimg.com/vi/97wA1mQG-dY/maxresdefault.jpg",
+    "isFrom": "web",
+     "isLive": true
+  }
+]
+}
