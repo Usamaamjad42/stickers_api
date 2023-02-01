@@ -1,0 +1,46 @@
+{
+  
+  "categories": [
+     {
+    "id": "news_channels.json",
+    "name": "News",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2150/2150342.png"
+  },
+      {
+    "id": "entertainment_channels.json",
+    "name": "Entertainment",
+    "icon": "https://static.thenounproject.com/png/741374-200.png"
+  },
+      {
+    "id": "sports_channels.json",
+    "name": "Sports",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2158/2158445.png"
+  },
+      {
+    "id": "movies_channels.json",
+    "name": "Movies",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1179/1179120.png"
+  },
+      {
+    "id": "islamic_channels.json",
+    "name": "Islamic",
+    "icon": "https://static.thenounproject.com/png/3771566-200.png"
+  },
+     {
+    "id": "indian_channels.json",
+    "name": "Indians",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2160/2160162.png"
+  },
+     {
+    "id": "pakistani_channels.json",
+    "name": "Pakistani",
+    "icon": "https://cdn-icons-png.flaticon.com/512/5316/5316186.png"
+  },
+     {
+    "id": "server_channels.json",
+    "name": "Live Sports",
+    "icon": "https://cdn-icons-png.flaticon.com/512/4424/4424711.png"
+  }
+
+  ]
+}
